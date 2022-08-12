@@ -6,4 +6,3 @@ Lamborghini,Gallardo,2007,3
 Maserati,Quattroporte S,2018,100
 Volvo,XC90,2022,15
 Pagani,Zonda,2022,15
-Pagani,Zonda,2022,15
