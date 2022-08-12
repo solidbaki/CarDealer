@@ -1,0 +1,9 @@
+Alfa Romeo,Giulietta,2020,25
+BMW,M5,2019,5
+Chevrolet,Camaro,2019,19
+Ford,Mustang Fastback,1968,1
+Lamborghini,Gallardo,2007,3
+Maserati,Quattroporte S,2018,100
+Volvo,XC90,2022,15
+Pagani,Zonda,2022,15
+Pagani,Zonda,2022,15
